@@ -46,7 +46,7 @@ Welcome to my portfolio! Here you'll find an overview of the projects I've worke
 ---
 
 ## Contact
-Feel free to reach out to me for any inquiries or collaborations at [your-email@example.com].
+Feel free to reach out to me for any inquiries or collaborations at [bushraabbas368@gmail.com].
 
 ---
 
