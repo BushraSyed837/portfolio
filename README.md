@@ -31,7 +31,7 @@ Welcome to my portfolio! Here you'll find an overview of the projects I've worke
 
 ---
 
-### 4. Bountiful (A fellowship provider)
+### 4. Bountiful (A Fellowship Provider)
 **Description:** Bountiful is dedicated to removing barriers for underrepresented innovators and fostering innovation to protect our planet. It is a community of graduate students, researchers, and entrepreneurs united by a passion for impactful work. Bountiful curates a comprehensive knowledge hub for research commercialization and offers a platform for members to showcase their research and inventions.
 
 **Website:** [Visit the website](https://www.bountiful.work/)
@@ -45,8 +45,17 @@ Welcome to my portfolio! Here you'll find an overview of the projects I've worke
 
 ---
 
+## Side Gigs
+
+### 1. Netflix Animated Logo
+**Description:** An animated Netflix logo created using React and CSS.
+
+**Code:** [View the code](https://github.com/BushraSyed837/Netflix-Animated-Logo)
+
+---
+
 ## Contact
-Feel free to reach out to me for any inquiries or collaborations at [bushraabbas368@gmail.com].
+Feel free to reach out to me for any inquiries or collaborations at [bushraabbas368@gmail.com](mailto:bushraabbas368@gmail.com).
 
 ---
 
