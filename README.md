@@ -4,6 +4,12 @@ Welcome to my portfolio! Here you'll find an overview of the projects I've worke
 
 ## Projects
 
+### 1. OMBE
+
+**Description:** Ombe is a coffee shop app where customers can browse, order, and enjoy their favorite coffee and food items seamlessly. .
+
+**Video:** [Watch the video](https://drive.google.com/file/d/1Xcml3wM9csf0fyk7HPz7Gci0UW8nAG_o/view?usp=drive_link)
+
 ### 1. Helpsum
 **Product of:** Strayasoft
 
