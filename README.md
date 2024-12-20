@@ -1,6 +1,6 @@
 # My Portfolio
 
-Welcome to my portfolio! Here you'll find an overview of the projects I've worked on, ranging from mobile applications to web systems. Below is a brief description of each project, along with links to additional resources where you can learn more.
+Welcome to my portfolio! Here you'll find an overview of the projects. I've worked on, ranging from mobile applications to web systems. Below is a brief description of each project, along with links to additional resources where you can learn more.
 
 
 ## Projects
