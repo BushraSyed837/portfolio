@@ -5,8 +5,6 @@ Welcome to my portfolio! Here you'll find an overview of the projects I've worke
 
 ## Projects
 
----
-
 ### 1. OMBE (React Native Cli Project)
 
 **Description:** Ombe is a coffee shop app where customers can browse, order, and enjoy their favorite coffee and food items seamlessly. 
